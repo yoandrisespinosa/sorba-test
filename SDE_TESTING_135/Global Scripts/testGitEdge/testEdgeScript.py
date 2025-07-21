@@ -17,4 +17,5 @@ my_random_integer = random.randint(1, 100)  # generates a random integer between
 number1 = my_random_integer
 number2 = my_random_integer
 result = sum_two_numbers(number1, number2)
-debug(f"The sum of {number1} and {number2} is {result}")
+debug(f"The sum of {number1} and {number2} is {result}") 
+# script on Cloud
