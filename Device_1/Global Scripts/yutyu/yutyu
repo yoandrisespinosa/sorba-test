@@ -1,0 +1,7 @@
+# Welcome to Python Editor integrated with SORBA. Use sde["ASSET.GROUP.TAG"] to read or write tags. Check for built-in 'sde' functions. 
+# Define global variables using glb.append(name=value,...),access as glb.name.Also use 'global' keyword to share variables, functions,libraries.
+# Define asset-related variables and functions within the 'asset' namespace, using asset.append(name=value,...). Create a new namespace using the 'Domain' class.
+# For debugging, use debug(*args) and visualize the results in the Debug tab. To monitor runtime, check Statistics tab.
+# Look for built-in script functions and modules like timer, counter, track, cyclic_list, fifo_list, timer_counter (RepeatTimer,Heartbeat) and others.
+# To import Python modules outside of Script-Engine folder, add into the 'On Start' script: import sys; sys.path.append ('new path')
+# Enter your Python code here. For additional information and examples, please refer to the help file.
